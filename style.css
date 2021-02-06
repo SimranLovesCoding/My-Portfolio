@@ -1,0 +1,28 @@
+ #normal {
+     background-color: aquamarine;
+ }
+
+ #grid {
+     background-color: aquamarine;
+ }
+
+ #move {
+     background-color: aquamarine;
+ }
+
+ #veiw {
+     width: 700px;
+     height: 400px;
+ }
+
+ .img2 {
+     width: 250px;
+     height: 250px;
+     border-width: 10px;
+     border-style: double;
+ }
+
+ .img3 {
+     width: 100%;
+     height: 500px;
+ }
